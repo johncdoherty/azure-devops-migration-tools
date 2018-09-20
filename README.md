@@ -15,11 +15,11 @@ There are many other uses that you might put the tools to but migrating your ent
 ## Quick Links
 
  - [Video Overview](https://youtu.be/ZxDktQae10M)
- - [Getting Started](http://vsts-bulk-editor.readthedocs.io/en/latest/getting-started)
- - [Documentation](http://vsts-bulk-editor.readthedocs.io)
- - [Contributing](http://vsts-bulk-editor.readthedocs.io/en/latest/#contributing)
- - [Why VSTS Bulk Data Editor](http://vsts-bulk-editor.readthedocs.io/en/latest/why)
- - [Usage](http://vsts-bulk-editor.readthedocs.io/en/latest/usage/usage/)
+ - [Getting Started](https://dev.azure.com/nkdagility/migration-tools/_wiki/wikis/docs?wikiVersion=GBmaster&pagePath=%2Fgetting%20started)
+ - [Documentation](https://dev.azure.com/nkdagility/migration-tools/_wiki/wikis/docs?pagePath=%2Findex)
+ - [Contributing](https://dev.azure.com/nkdagility/migration-tools/_wiki/wikis/docs?pagePath=%2Findex&anchor=contributing)
+ - [Why VSTS Bulk Data Editor](https://dev.azure.com/nkdagility/migration-tools/_wiki/wikis/docs?pagePath=%2Fwhy)
+ - [Usage](https://dev.azure.com/nkdagility/migration-tools/_wiki/wikis/docs?pagePath=%2Fusage%2Fusage)
 
 
 
